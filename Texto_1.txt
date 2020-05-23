@@ -2,8 +2,8 @@
 <p class="text-secondary">.text-secondary</p>
 <p class="text-success">.text-success</p>
 <p class="text-danger">.text-danger</p>
-<<<<<<< HEAD
+
 Linea de seba
-=======
+
 Linea 5 modificacion
->>>>>>> 8cc1e8ba28e310ec440ec197122a65ac6cf888e5
+
