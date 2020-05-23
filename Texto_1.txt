@@ -2,4 +2,21 @@
 <p class="text-secondary">.text-secondary</p>
 <p class="text-success">.text-success</p>
 <p class="text-danger">.text-danger</p>
+
+
+
+
+
+
+
+
+
+
+
+
 Linea 5 modificacion
+
+
+
+
+trabajo en la linea 10 
